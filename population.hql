@@ -13,3 +13,4 @@ ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ','
 STORED AS TEXTFILE
 LOCATION '/user/hive/warehouse/population_data/';
+#new to git
